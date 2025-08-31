@@ -1,0 +1,22 @@
+.contact-form input[type="number"] {
+    width: 30%;
+    padding: 8px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .contact-form select {
+    width: 30%;
+    padding: 8px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    display: block;
+    margin: auto;
+  }
+  
